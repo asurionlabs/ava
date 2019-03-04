@@ -12,5 +12,7 @@ In addition, it contains the following standalone services:
 - Feature Flag - deploy features silently, turn them on when ready to launch
 - A/B Framework - simultaneously experiment with two or more dialog sub-flows, to determine which best meets your metrics
 
+# More Info
 
+Contact saurav.chatterjee@asurion.com or michael.ballou@asurion.com if you have questions.
 
